@@ -689,7 +689,7 @@ reMarked = function(opts) {
 };
 
 /*!
-  * klass: a classical JS OOP faÃ§ade
+  * klass: a classical JS OOP façade
   * https://github.com/ded/klass
   * License MIT (c) Dustin Diaz 2014
   */
